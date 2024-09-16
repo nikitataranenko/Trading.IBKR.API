@@ -43,4 +43,9 @@
     <None Remove="README.md" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\EClient\" />
+    <Folder Include="Models\Decoder\" />
+  </ItemGroup>
+
 </Project>
